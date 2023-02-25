@@ -1,0 +1,9 @@
+github file upload
+
+git add .
+git commit -m "massage"
+git push origin master
+
+github remote check
+
+git remote -v
