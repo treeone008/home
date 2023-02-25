@@ -1,0 +1,23 @@
+#github file upload
+
+git add .
+git commit -m "massage"
+git push origin master
+
+#github remote check
+
+git remote -v
+
+#github pull
+
+git pull origin master
+
+#pull error
+
+git config pull.rebase false
+
+#change day config
+
+git config --global --edit
+git commit --amend --reset-author
+
