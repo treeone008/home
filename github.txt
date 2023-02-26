@@ -21,3 +21,8 @@ git config pull.rebase false
 git config --global --edit
 git commit --amend --reset-author
 
+# commit => date
+
+20??/??/??
+
+#
