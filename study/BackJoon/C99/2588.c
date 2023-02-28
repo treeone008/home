@@ -1,5 +1,6 @@
 // 2023.02.27 jinseong
 // 곱하기 과정 출력
+// 1-10
 #include <stdio.h>
 
 int main(){
