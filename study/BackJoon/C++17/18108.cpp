@@ -1,6 +1,6 @@
 // 2023.02.26 jinseong
 // 숫자 계산 후 출력
-
+// 1-8
 #include <iostream>
 using namespace std;
 

@@ -1,5 +1,6 @@
 // 2023.02.26 jinseong
 // ??! 붙여 출력
+// 1-7
 
 #include <stdio.h>
 
