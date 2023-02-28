@@ -1,7 +1,6 @@
 # 2023.02.28 jinseong
 # 점수 등급 측정
 # 2-2
-
 import sys
 
 a = int(input())
