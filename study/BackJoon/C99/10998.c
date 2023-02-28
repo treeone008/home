@@ -1,5 +1,6 @@
 // 2023.02.25 jinseong
 // AxB 출력
+// 1-4
 #include <stdio.h>
 
 int main(){

@@ -1,5 +1,6 @@
 # 2023.02.25 jinseong
 # A,B 사칙연산 출력
+# 1-6
 import sys
 input = sys.stdin.readline
 
