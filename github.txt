@@ -25,4 +25,8 @@ git commit --amend --reset-author
 
 20??/??/??
 
+#caution
+
+git add . << NEVER!
+
 #
